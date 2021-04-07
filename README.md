@@ -9,7 +9,7 @@ Nevertheless I hope you enjoy my 4 day effort to learn azure cloud engineering a
 
 ## Introduction
 
-**This is a very rough solution to the [Sentia Recruitment Assignment](https://github.com/sentialabs/public-cloud-recruitment/blob/master/ASSIGNEMENT.md)>**
+**This is a very rough solution to the [Sentia Recruitment Assignment](https://github.com/sentialabs/public-cloud-recruitment/blob/master/ASSIGNEMENT.md)**
 
 "You have participated in a meeting with a client to assess their strategy to migrate to the public cloud. They are currently hosting a customer facing web application on their on premise emnvironment based on a NodeJS application behind an NGINX reverse proxy. They are ustilizing a MongoDB cluster for storing data as well as an FTP server for document storage. They also maintain a cron server, mostly Bash and Python scripts, relevant to a small amount of jobs that need to be executed a few times per day (no more than once per hour). All the above services are hosted on several virtual machines.
 
