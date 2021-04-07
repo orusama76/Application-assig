@@ -50,4 +50,4 @@ Azure tracks all the events in our Azure Account/Subscription and publishes it t
 
 <img src="images/elastic-kibana sta.jpg"/>
 
-## In the Repository you will find JSON files for the NODEjs-MongoDB and Ftp Server. 
+### In the Repository you will find JSON files for the NODEjs-MongoDB and Ftp Server as well as an Acivity Time Log.
