@@ -1,10 +1,15 @@
-# Application-assig
+# Assesment assignment for SENTIA
+
+
+
+## DISCLAIMER
+
+This "result" was published solely for me not to sent an empty email of an empty repo. I wasn't aware that that was a senior cloud engineer position. Unfortunately I' am but a junior-mid network engineer that has very basic coding experience, mostly in python, and non existent cloud or IAC or even architectural design experience. 
+Nevertheless I hope you enjoy my 4 day effort to learn azure cloud engineering and coding!!! ;) :D
 
 ## Introduction
 
-This "result" was published solely for me not to sent an empty email of an empty repo. I wasn't aware that that was a senior cloud engineer position. Unfortunately I' am but a junior-mid network engineer that has very basic coding experience, mostly in python, and non existent cloud or iac or even architectural design experience. 
-Nevertheless I hope you enjoy my 3 day effort to learn azure cloud engineering and coding!!! ;) :D
-
+This is a very rough solution to the [Sentia Recruitment Assignment](https://github.com/sentialabs/public-cloud-recruitment/blob/master/ASSIGNEMENT.md)
 
 ## Methodology
 
