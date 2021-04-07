@@ -29,5 +29,4 @@ Azure tracks all the events in our Azure Account/Subscription and publishes it t
 
 <img src="images/elastic-kibana sta.jpg"/>
 
-
-## [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](hmongojs-mongodb.json)
+## In the Repository you will find JSON files for the NODEjs-MongoDB and Ftp Server. 
