@@ -28,3 +28,6 @@ create and store it in a storage account or Github.Then we will write a RunBook 
 Azure tracks all the events in our Azure Account/Subscription and publishes it to Azure Activity Log service. We will take those logs and stream them to Elastic Search service and then use Kibana to visualize the logs. Ufortunately I couldnt find our  how to make the VN private.
 
 <img src="images/elastic-kibana sta.jpg"/>
+
+
+## [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](hmongojs-mongodb.json)
