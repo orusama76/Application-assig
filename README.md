@@ -9,7 +9,23 @@ Nevertheless I hope you enjoy my 4 day effort to learn azure cloud engineering a
 
 ## Introduction
 
-This is a very rough solution to the [Sentia Recruitment Assignment](https://github.com/sentialabs/public-cloud-recruitment/blob/master/ASSIGNEMENT.md)
+**This is a very rough solution to the [Sentia Recruitment Assignment](https://github.com/sentialabs/public-cloud-recruitment/blob/master/ASSIGNEMENT.md)>**
+
+"You have participated in a meeting with a client to assess their strategy to migrate to the public cloud. They are currently hosting a customer facing web application on their on premise emnvironment based on a NodeJS application behind an NGINX reverse proxy. They are ustilizing a MongoDB cluster for storing data as well as an FTP server for document storage. They also maintain a cron server, mostly Bash and Python scripts, relevant to a small amount of jobs that need to be executed a few times per day (no more than once per hour). All the above services are hosted on several virtual machines.
+
+Finally, the customer currently has 3 environements, namely Test, Acceptance and Production.
+
+The customer is interested in migrating the complete envitonment to the Public Cloud. They are not in a rush, and they have given an indication that they want to go live on the Public Cloud 12 months after they have agreed on the vendor to support them in this journey. They want to make sure that they have enough time to adjust the application to any technology related changes originating from an infrastructure perspective.
+
+There is a hard requirement for exporting all application and infrastructure logs to an ElasticSearch Cluster. The customer needs to have access to the Kibana dashboard within their headquarters but the cluster/dashboard should not be publically accessible.
+
+You have undertaken the task to design the future state of this environment in the public cloud. The solution needs to:
+
+    be scalable and flexible.
+    utilize managed services as much as possible.
+
+Cost optimization should be applied when necessarty, even if a few application related modifications are necessary. Environment isolation is important, but some shared services would be acceptable if they result in major cost reduction."
+
 
 ## Methodology
 
