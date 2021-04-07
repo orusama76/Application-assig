@@ -14,3 +14,10 @@ Initialy we will create an on demand SFTP Azure Container Instance (ACI). It cre
 Once deployment finishes, you can connect to deployed VM and verify the Mongo database as well as Nodejs application and test application by launching the same in browser. 
 
 <img src="images/mongodb-sftp-nodejs.jpg"/>
+
+### Cron Server
+
+For this instance we will use Azure Schedule Automation and we will create a Python runbook that we will associate with the Schedule. For the bash script we will
+create and store it in a storage account or Github.Then we will write a RunBook which executes the bash script on Linux VM using Custom Script extension. Finaly we will associate the playbook with the Schedule.
+
+<img src="images/cronserver).jpg"/>
